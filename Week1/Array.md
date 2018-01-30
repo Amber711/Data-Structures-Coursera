@@ -10,11 +10,6 @@ Constant-time access: array_address + elem_size x (index - first_index)
 2. Column-major: Element changes mostly rapidly in column
     
 ###Times for common operations
-        | Add | Remove
---------|-----|-------
-   Beginning| O(n)| O(n)
-        End | O(1)| O(1)
-      Middle| O(n)| O(n)
 
 |   |Add | Remove  |
 |---|---|---|
