@@ -1,4 +1,5 @@
-#Array#
+#Array
+
 ###Definition
 Contiguous area of memory consisting of equal-size elements indexed by contiguous integers.
     
